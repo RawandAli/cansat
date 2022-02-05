@@ -165,6 +165,7 @@ a .media2:hover {
 @media (max-width: 991px) {
   .home-image {
   height: 900px;
+  width: 100%;
   background-image: url("images/jupiterPhone.jpg");
   background-repeat: no-repeat;
   background-size: cover;
